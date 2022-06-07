@@ -1,11 +1,11 @@
 # Hi there, I'm Yousef 👋 
 
 
-## I'm a Full-stack Web Developer /High-School Student!!
+## I'm a Full-stack Web Developer / High-School Student!!
 
 - 🔭 I am 17 years old ambitious programmer who is hungry for more knowledge!
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to expand my knoweldge and experience by getting a job
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to expand my knoweldge and experience by getting a job.
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://usefsite.herokuapp.com#gh-light-mode-only)
