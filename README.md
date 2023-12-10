@@ -1,7 +1,7 @@
 # Hi there, I'm Youssef 👋 
 
 
-## I'm a Full-stack Web Developer / High-School Student!!
+## I'm a Full-stack Web Developer / AUC Undergraduate!!
 
 - 🔭 I am 18 years old ambitious programmer who is always hungry for more knowledge!
 - 🌱 I’m currently learning everything.
