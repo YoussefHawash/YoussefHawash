@@ -3,7 +3,7 @@
 
 ## I'm a Full-stack Web Developer / AUC Undergraduate!!
 
-- 🔭 I am 18 years old ambitious programmer who is always hungry for more knowledge!
+- 🔭 I am an 18-year-old ambitious programmer who is always seeking more knowledge!
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to expand my knowledge and experience by getting a job.
 ### Connect with me:
