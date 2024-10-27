@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ymbusinesses@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Kpmwde5s8UN1HJeJFCrBhQg4mTQ6qDkS/view](https://drive.google.com/file/d/1Kpmwde5s8UN1HJeJFCrBhQg4mTQ6qDkS/view)
+- 📄 Know about my experiences [My Resume](https://elasticbeanstalk-eu-central-1-059004910124.s3.eu-central-1.amazonaws.com/Youssef+Hawash+CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
