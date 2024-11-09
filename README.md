@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Youssef Hawash</h1>
 <h3 align="center">A passionate Tech Lover</h3>
 
-- 🔭 I’m currently working on [My-Website](https://youssefhawash.me/)
+- 🔭 I’m currently working on [My-Website](https://github.com/YoussefHawash/MyWebsite)
 
 - 🌱 I’m currently learning **Nodejs,and React**
 
-- 👨‍💻 All of my projects are available at [https://youssefhawash.me/Projects](https://youssefhawash.me/Projects)
-
-- 📝 I regularly write articles on [https://youssefhawash.me/Blogs](https://youssefhawash.me/Blogs)
+- 👨‍💻 All of my projects are available at [https://youssefhawash.me](https://youssefhawash.me)
 
 - 📫 How to reach me **ymbusinesses@gmail.com**
 
