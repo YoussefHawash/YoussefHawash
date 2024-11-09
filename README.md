@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My-Website](https://github.com/YoussefHawash/MyWebsite)
 
-- 🌱 I’m currently learning **Nodejs,and React**
+- 🌱 I’m currently learning **Nodejs, and React**
 
 - 👨‍💻 All of my projects are available at [youssefhawash.me](https://youssefhawash.me)
 
